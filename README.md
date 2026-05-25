@@ -3,6 +3,15 @@ GUVI HCLTASK 16 - AJAX Dynamic Elements
 
 The current repository contains python codes to the questions mentioned in HCL GUVI Python Task 16 - https://docs.google.com/document/d/1FQNA2p-0B62jvtSBBYJY4VSp333Gd2j1RGpwMaftJVc/edit?tab=t.0
 
+"""
+Using Python Selenium, Page Object Model (POM), Explicit Wait, Expected Conditions and Pytest kindly do the 
+following task as mentioned below :-
+
+	1) Goto the URL - https://www.theworldcounts.com/challenges/planet-earth/state-of-the-planet/world-population-clock-live
+	2) Extract the Population Count on the command-prompt/terminal/console until the user presses CTRL+C
+	3) Kindly use XPATH only for the task.
+"""
+
 ============================================================================================================================================================
 
 Project Structure POM for WORLD POPULATION
