@@ -1,0 +1,69 @@
+2026-05-25 17:12:46 | INFO     | conftest                       | ======================================================================
+2026-05-25 17:12:46 | INFO     | conftest                       | Launching Chrome browser
+2026-05-25 17:12:47 | INFO     | conftest                       | Browser launched successfully
+2026-05-25 17:12:47 | INFO     | test_population_clock          | TEST START: test_population_clock_page_loads
+2026-05-25 17:12:50 | INFO     | test_population_clock          | Current URL : https://www.theworldcounts.com/challenges/planet-earth/state-of-the-planet/world-population-clock-live
+2026-05-25 17:12:50 | INFO     | test_population_clock          | Page Title  : 'World Population Clock Live'
+2026-05-25 17:12:50 | INFO     | test_population_clock          | PASS: Population clock page loaded successfully.
+2026-05-25 17:12:50 | INFO     | conftest                       | PASSED  : tests/test_population_clock.py::TestPopulationClock::test_population_clock_page_loads
+2026-05-25 17:12:50 | INFO     | conftest                       | Closing browser
+2026-05-25 17:12:53 | INFO     | conftest                       | Browser closed
+2026-05-25 17:12:53 | INFO     | conftest                       | ======================================================================
+2026-05-25 17:12:53 | INFO     | conftest                       | ======================================================================
+2026-05-25 17:12:53 | INFO     | conftest                       | Launching Chrome browser
+2026-05-25 17:12:54 | INFO     | conftest                       | Browser launched successfully
+2026-05-25 17:12:54 | INFO     | test_population_clock          | TEST START: test_population_counter_is_visible_and_valid
+2026-05-25 17:13:00 | INFO     | test_population_clock          | Population count extracted: '8,251,522,504'
+2026-05-25 17:13:00 | INFO     | test_population_clock          | PASS: Valid population count extracted -> 8,251,522,504
+2026-05-25 17:13:00 | INFO     | conftest                       | PASSED  : tests/test_population_clock.py::TestPopulationClock::test_population_counter_is_visible_and_valid
+2026-05-25 17:13:00 | INFO     | conftest                       | Closing browser
+2026-05-25 17:13:02 | INFO     | conftest                       | Browser closed
+2026-05-25 17:13:02 | INFO     | conftest                       | ======================================================================
+2026-05-25 17:13:02 | INFO     | conftest                       | ======================================================================
+2026-05-25 17:13:02 | INFO     | conftest                       | Launching Chrome browser
+2026-05-25 17:13:03 | INFO     | conftest                       | Browser launched successfully
+2026-05-25 17:13:03 | INFO     | test_population_clock          | TEST START: test_live_population_count_until_ctrl_c
+2026-05-25 17:13:03 | INFO     | test_population_clock          | Press CTRL + C to stop execution.
+2026-05-25 17:13:06 | INFO     | test_population_clock          | Iteration: 0 | Timestamp: < 2026-05-25 17:13:06 > -> Population: 8,251,522,517
+2026-05-25 17:13:07 | INFO     | test_population_clock          | Iteration: 1 | Timestamp: < 2026-05-25 17:13:07 > -> Population: 8,251,522,520
+2026-05-25 17:13:08 | INFO     | test_population_clock          | Iteration: 2 | Timestamp: < 2026-05-25 17:13:08 > -> Population: 8,251,522,522
+2026-05-25 17:13:09 | INFO     | test_population_clock          | Iteration: 3 | Timestamp: < 2026-05-25 17:13:09 > -> Population: 8,251,522,524
+2026-05-25 17:13:10 | INFO     | test_population_clock          | Iteration: 4 | Timestamp: < 2026-05-25 17:13:10 > -> Population: 8,251,522,526
+2026-05-25 17:13:11 | INFO     | test_population_clock          | Iteration: 5 | Timestamp: < 2026-05-25 17:13:11 > -> Population: 8,251,522,529
+2026-05-25 17:13:12 | INFO     | test_population_clock          | Iteration: 6 | Timestamp: < 2026-05-25 17:13:12 > -> Population: 8,251,522,531
+2026-05-25 17:13:13 | INFO     | test_population_clock          | Iteration: 7 | Timestamp: < 2026-05-25 17:13:13 > -> Population: 8,251,522,534
+2026-05-25 17:13:14 | INFO     | test_population_clock          | Iteration: 8 | Timestamp: < 2026-05-25 17:13:14 > -> Population: 8,251,522,536
+2026-05-25 17:13:15 | INFO     | test_population_clock          | Iteration: 9 | Timestamp: < 2026-05-25 17:13:15 > -> Population: 8,251,522,538
+2026-05-25 17:13:16 | INFO     | test_population_clock          | Iteration: 10 | Timestamp: < 2026-05-25 17:13:16 > -> Population: 8,251,522,541
+2026-05-25 17:13:17 | INFO     | test_population_clock          | Iteration: 11 | Timestamp: < 2026-05-25 17:13:17 > -> Population: 8,251,522,543
+2026-05-25 17:13:18 | INFO     | test_population_clock          | Iteration: 12 | Timestamp: < 2026-05-25 17:13:18 > -> Population: 8,251,522,545
+2026-05-25 17:13:19 | INFO     | test_population_clock          | Iteration: 13 | Timestamp: < 2026-05-25 17:13:19 > -> Population: 8,251,522,547
+2026-05-25 17:13:20 | INFO     | test_population_clock          | Iteration: 14 | Timestamp: < 2026-05-25 17:13:20 > -> Population: 8,251,522,550
+2026-05-25 17:13:21 | INFO     | test_population_clock          | Iteration: 15 | Timestamp: < 2026-05-25 17:13:21 > -> Population: 8,251,522,552
+2026-05-25 17:13:22 | INFO     | test_population_clock          | Iteration: 16 | Timestamp: < 2026-05-25 17:13:22 > -> Population: 8,251,522,554
+2026-05-25 17:13:23 | INFO     | test_population_clock          | Iteration: 17 | Timestamp: < 2026-05-25 17:13:23 > -> Population: 8,251,522,557
+2026-05-25 17:13:24 | INFO     | test_population_clock          | Iteration: 18 | Timestamp: < 2026-05-25 17:13:24 > -> Population: 8,251,522,559
+2026-05-25 17:13:25 | INFO     | test_population_clock          | Iteration: 19 | Timestamp: < 2026-05-25 17:13:25 > -> Population: 8,251,522,561
+2026-05-25 17:13:27 | INFO     | test_population_clock          | Iteration: 20 | Timestamp: < 2026-05-25 17:13:27 > -> Population: 8,251,522,564
+2026-05-25 17:13:28 | INFO     | test_population_clock          | Iteration: 21 | Timestamp: < 2026-05-25 17:13:28 > -> Population: 8,251,522,566
+2026-05-25 17:13:29 | INFO     | test_population_clock          | Iteration: 22 | Timestamp: < 2026-05-25 17:13:29 > -> Population: 8,251,522,568
+2026-05-25 17:13:30 | INFO     | test_population_clock          | Iteration: 23 | Timestamp: < 2026-05-25 17:13:30 > -> Population: 8,251,522,571
+2026-05-25 17:13:31 | INFO     | test_population_clock          | Iteration: 24 | Timestamp: < 2026-05-25 17:13:31 > -> Population: 8,251,522,573
+2026-05-25 17:13:32 | INFO     | test_population_clock          | Iteration: 25 | Timestamp: < 2026-05-25 17:13:32 > -> Population: 8,251,522,576
+2026-05-25 17:13:33 | INFO     | test_population_clock          | Iteration: 26 | Timestamp: < 2026-05-25 17:13:33 > -> Population: 8,251,522,578
+2026-05-25 17:13:34 | INFO     | test_population_clock          | Iteration: 27 | Timestamp: < 2026-05-25 17:13:34 > -> Population: 8,251,522,580
+2026-05-25 17:13:35 | INFO     | test_population_clock          | Iteration: 28 | Timestamp: < 2026-05-25 17:13:35 > -> Population: 8,251,522,583
+2026-05-25 17:13:36 | INFO     | test_population_clock          | Iteration: 29 | Timestamp: < 2026-05-25 17:13:36 > -> Population: 8,251,522,585
+2026-05-25 17:13:37 | INFO     | test_population_clock          | Iteration: 30 | Timestamp: < 2026-05-25 17:13:37 > -> Population: 8,251,522,587
+2026-05-25 17:13:38 | INFO     | test_population_clock          | Iteration: 31 | Timestamp: < 2026-05-25 17:13:38 > -> Population: 8,251,522,590
+2026-05-25 17:13:39 | INFO     | test_population_clock          | Iteration: 32 | Timestamp: < 2026-05-25 17:13:39 > -> Population: 8,251,522,592
+2026-05-25 17:13:40 | INFO     | test_population_clock          | Iteration: 33 | Timestamp: < 2026-05-25 17:13:40 > -> Population: 8,251,522,594
+2026-05-25 17:13:40 | INFO     | test_population_clock          | User stopped execution using CTRL + C
+2026-05-25 17:13:40 | INFO     | test_population_clock          | Stopping population extraction...
+2026-05-25 17:13:40 | INFO     | test_population_clock          | Total reads completed: 33
+2026-05-25 17:13:40 | INFO     | test_population_clock          | Population extraction completed successfully.
+2026-05-25 17:13:52 | INFO     | test_population_clock          | Browser closed successfully.
+2026-05-25 17:13:52 | INFO     | conftest                       | PASSED  : tests/test_population_clock.py::TestPopulationClock::test_live_population_count_until_ctrl_c
+2026-05-25 17:13:52 | INFO     | conftest                       | Closing browser
+2026-05-25 17:14:09 | INFO     | conftest                       | Browser closed
+2026-05-25 17:14:09 | INFO     | conftest                       | ======================================================================

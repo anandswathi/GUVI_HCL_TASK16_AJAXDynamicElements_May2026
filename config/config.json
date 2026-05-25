@@ -1,0 +1,9 @@
+{
+  "browser": "chrome",
+  "headless": false,
+  "base_url": "https://www.theworldcounts.com/challenges/planet-earth/state-of-the-planet/world-population-clock-live",
+  "timeout": 10,
+  "default_timeout": 15,
+  "wait_interval": 1,
+  "report_path": "reports/report.html"
+}
