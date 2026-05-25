@@ -1,6 +1,8 @@
 # GUVI_HCL_TASK16_AJAXDynamicElements_May2026
 GUVI HCLTASK 16 - AJAX Dynamic Elements
 
+The current repository contains python codes to the questions mentioned in HCL GUVI Python Task 16 - https://docs.google.com/document/d/1FQNA2p-0B62jvtSBBYJY4VSp333Gd2j1RGpwMaftJVc/edit?tab=t.0
+
 ============================================================================================================================================================
 
 Project Structure POM for WORLD POPULATION
